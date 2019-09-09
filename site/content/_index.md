@@ -37,9 +37,11 @@ products:
       relation with sections.json, chapters.json, units.json
 values:
   heading: Pricing & Payment
-  text: |
-    Bitcoin Amount: 0.020 BTC
-    Bitcoin Payment to: 144e121E4e3fPyGYNmuGJTrhi4zqSTabia
-    Payment Description: VietNam HS Code - your@email.here
+  text: >
+    Please send "0.020 BTC" ~ 200 USD to address
+    "144e121E4e3fPyGYNmuGJTrhi4zqSTabia"
+
+    with description: "VietNam HS Code - replace-with-your@email.here". You can
+    use CoinBase, BitPay, ...
 ---
 
