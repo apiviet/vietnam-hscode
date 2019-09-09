@@ -8,23 +8,33 @@ blurb:
 intro:
   heading: What we offer
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    APIViet is data provider company, we strike to save your valuable time with
+    correctly & up-to-date data.
 products:
-  - image: /img/illustrations-coffee-gear.svg
+  - image: /img/sections.json.png
+    text: |-
+      sections.json
+
+      All Harmonized System's section with dual language (English & Vietnamese)
+  - image: /img/chapters.json.png
     text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
-  - image: /img/illustrations-tutorials.svg
+      chapters.json
+
+
+      All Harmonized System's chapters with dual language (English & Vietnamese)
+      and relation with sections.json
+  - image: /img/units.json.png
+    text: |-
+      units.json
+
+      All Harmonized System's units with dual language (English & Vietnamese)
+  - image: /img/codes.json.png
     text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+      codes.json
+
+
+      All Harmonized System's Code with dual language (English & Vietnamese) and
+      relation with sections.json, chapters.json, units.json
 values:
   heading: Our values
   text: >-
