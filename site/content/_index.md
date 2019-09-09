@@ -38,6 +38,7 @@ products:
 values:
   heading: Pricing & Payment
   text: |
+    Bitcoin Amount: 0.020 BTC
     Bitcoin Payment to: 144e121E4e3fPyGYNmuGJTrhi4zqSTabia
     Payment Description: VietNam HS Code - your@email.here
 ---
