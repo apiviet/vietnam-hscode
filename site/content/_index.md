@@ -36,12 +36,17 @@ products:
       All Harmonized System's Code with dual language (English & Vietnamese) and
       relation with sections.json, chapters.json, units.json
 values:
-  heading: Pricing & Payment
+  heading: Pricing & Payment (free 1 year upgrade)
   text: >
-    Please send "0.020 BTC" ~ 200 USD to address
-    "144e121E4e3fPyGYNmuGJTrhi4zqSTabia"
+    - Pricing: 20 mBTC ~ 200 USD.
 
-    with description: "VietNam HS Code - replace-with-your@email.here". You can
-    use CoinBase, BitPay, ...
+    - Payment method: Bitcoin.
+
+    - Bitcoin address: 144e121E4e3fPyGYNmuGJTrhi4zqSTabia
+
+
+    Shoot us an email with your Bitcoin's Sender Address. All data will be in
+    your email inbox in no time. If you don't have Bitcoin wallet, you can use 
+    CoinBase, BitPay, etc...
 ---
 
